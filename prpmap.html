@@ -29,8 +29,10 @@
                 //Add authentication details for connecting to Azure Maps.
                 authOptions: {
                     //Use Azure Active Directory authentication.
-                    authType: 'subscriptionKey',
-                    subscriptionKey: 'pqTqeeq-2C9BJVHptsOlboGgS3e_XMOPC-2vES-s19w',
+			 authType: 'anonymous',
+                    clientId: '771fbbc8-a83c-4d69-be8a-7126eb61df39',
+                    //authType: 'subscriptionKey',
+                    //subscriptionKey: 'pqTqeeq-2C9BJVHptsOlboGgS3e_XMOPC-2vES-s19w',
 //authType: 'anonymous',
                     //clientId: 'e6b6ab59-eb5d-4d25-aa57-581135b927f0', //Your Azure Maps client id for accessing your Azure Maps account.
                     getToken: function (resolve, reject, map) {

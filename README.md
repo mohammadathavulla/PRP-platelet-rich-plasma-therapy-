@@ -1,4 +1,4 @@
-## Hii..Everyone...This is MD.Athavulla...Here is about my FRT Project Details...
+![Screenshot 2024-01-14 214602](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/6aef797b-6e8b-4430-86b1-f0bd323aa849)## Hii..Everyone...This is MD.Athavulla...Here is about my FRT Project Details...
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Project Name: "PRP-(platelet-rich-plasma-therapy)"
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -37,6 +37,32 @@
 ![azure map client id](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/409b1a72-1460-4f47-8498-433383e0b0d7)
 ### Azure Map primary and Secondary Keys:
 ![azure map primary and secondary keys](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/d49594de-da8e-47b2-9f63-713f4b4e9faa)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## PRP Project Static Web app Screnshoots:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### PRP Homepage:
+![Prp homepage](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/e3613aeb-96d1-4594-9914-25772c64abc9)
+### Overview Of PRP:
+![Overview of PRP](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/f6d8e0a5-7fa7-4bc9-b205-572e6f06b6ce)
+### Applications of PRP:
+![Applications of PRP](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/6354bee4-a427-4215-986e-c23b66ec870b)
+### Health bot:
+![health bot](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/03cea74a-7889-435e-b906-5bfc9ff169d7)
+
+![fun1](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/af9925b8-1d36-40ac-8cb5-b51a30fb17c5)
+
+![fun2](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/793b6804-c17e-40b4-9447-f7db8e52dce1)
+### Best places of PRP(Azure Map):
+![Best places of PRP in Azure Maps](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/60a9bf92-3f29-4fd5-b49c-187014e0fa9c)
+![Screenshot 2024-01-14 214602](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/9721c59e-b40f-4acd-a572-1d909895e77f)
+![Screenshot 2024-01-14 214614](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/1e9d2403-cffc-460a-be06-8f42ae83925e)
+![Screenshot 2024-01-14 214624](https://github.com/mohammadathavulla/PRP-platelet-rich-plasma-therapy-/assets/149937110/c8ba11a5-ac2c-4034-9ea9-dacc85607e42)
+
+
+
+
+
+
 
 
 

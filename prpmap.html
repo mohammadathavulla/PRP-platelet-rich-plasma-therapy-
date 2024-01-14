@@ -57,18 +57,18 @@
                 //Create three point features on the map and add some metadata in the properties which we will want to display in a popup.
                 datasource.add([
                     new atlas.data.Feature(new atlas.data.Point([-122.33, 47.6]), {
-                        name: 'Point 1 Title',
-                        description: 'This is the description 1.'
+                        name: 'Kobinia Med',
+                        description: 'Advanced Academic Stem Cell Therapy at Kobinia-Med Clinic in Vienna, Austria. One specialty is the treatment of paediatric disease like autism and cerebral palsy in addition to orthopaedic diseases.'
                     }),
 
                     new atlas.data.Feature(new atlas.data.Point([-122.335, 47.645]), {
-                        name: 'Point 2 Title',
-                        description: 'This is the description 2.'
+                        name: 'Stemedix, Inc',
+                        description: 'Stemedix, Inc provides effective Regenerative Medicine, known as Stem Cell Therapy in Saint Petersburg, Florida. '
                     }),
 
                     new atlas.data.Feature(new atlas.data.Point([-122.325, 47.635]), {
-                        name: 'Point 3 Title',
-                        description: 'This is the description 3.'
+                        name: 'Immunow Oncology Concierge',
+                        description: 'Immunow Oncology Center provides innovative, personalized cancer treatment in Tijuana Mexico, using advanced technology & integrative medicine for optimal care.'
                     })
                 ]);
 
@@ -120,13 +120,5 @@
 </head>
 <body onload="GetMap()">
     <div id="myMap" style="position:relative;width:100%;min-width:290px;height:600px;"></div>
-
-    <fieldset style="width:calc(100% - 30px);min-width:290px;margin-top:10px;">
-        <legend>Show popup on hover</legend>
-        This sample shows how to show a popup when the mouse hovers over or touches a shape. 
-        This sample uses the mouse move event to detect when hovering over a shape instead of the mouse over event. 
-        The mouse enter and over events only fires when initially hovering over a shape in a layer. 
-        If two shapes overlap, these events won't fire again. The mouse move event will fire while moving the mouse over shapes in the layer.
-    </fieldset>
 </body>
 </html>

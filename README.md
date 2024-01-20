@@ -14,8 +14,8 @@ Hii..Everyone...This is MD.Athavulla...Here is about my FRT Project Details...
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project Demo Links:
-### Azure Static web app link:
-### Youtube project demo url:
+### Azure Static web app link:https://wonderful-grass-0c8266110.4.azurestaticapps.net
+### Youtube project demo url:https://www.youtube.com/watch?v=1W7cgRnqzn8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Azure Service Technology Screen shots:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
